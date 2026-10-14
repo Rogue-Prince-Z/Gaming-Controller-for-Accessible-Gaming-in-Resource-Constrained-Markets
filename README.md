@@ -1,0 +1,2 @@
+# Gaming-Controller-for-Accessible-Gaming-in-Resource-Constrained-Markets
+This project develops an affordable multimodal gaming controller using ESP32, joystick, MPU6050 motion sensing, BLE, push buttons, and vibration feedback. Programmed in Arduino C++, it includes adjustable sensitivity and motion filtering for accessibility, costs just BDT 600–900 using local components, and is functionally tested for casual gaming
